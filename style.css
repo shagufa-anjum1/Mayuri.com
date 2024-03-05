@@ -1,6 +1,5 @@
 .hero-section div img {
-    animation: food-spin 25
-    s linear infinite;
+    animation: food-spin 25s linear infinite;
 }
 
 @keyframes food-spin {
