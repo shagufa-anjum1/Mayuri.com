@@ -33,4 +33,4 @@ We highly value user feedback! If you have any suggestions, encounter any issues
 
 Let's make online food ordering at VIT Bhopal easier and more enjoyable with Mayuri!
 
-Feel free to customize this description according to your specific details an
+
